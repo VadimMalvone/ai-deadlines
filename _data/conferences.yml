@@ -1,4 +1,20 @@
 ---
+- title: EUMAS
+  year: 2023
+  id: eumas23
+  full_name: European Conference on Multi-Agent Systems
+  link: https://vadimmalvone.github.io/eumas2023/
+  deadline: '2023-05-29 23:59:59'
+  abstract_deadline: '2023-05-29 23:59:59'
+  timezone: UTC-12
+  place: Naples, Italy
+  date: September 14 - September 15, 2023
+  start: 2023-09-14
+  end: 2023-09-15
+  hindex: 180
+  sub: ML
+  note: Mandatory abstract deadline on May 29, 2023. More info <a href='https://vadimmalvone.github.io/eumas2023/'>here</a>.
+
 - title: AAAI
   year: 2024
   id: aaai24
